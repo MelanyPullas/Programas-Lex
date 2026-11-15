@@ -1,0 +1,3 @@
+Prueba de ejecucion del codigo lex uno.l
+desde un archivo de texto
+creado desde el editor de texto vi
