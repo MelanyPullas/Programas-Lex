@@ -1,0 +1,8 @@
+x, 10, _var2, 2026
+suma, resta, 100
+
+hola mundo
+a,, b
+c, d,
+, inicio
+3.14, 12abc, valido

@@ -1,0 +1,6 @@
+
+--- Conteo de caracteres ---
+Mayusculas : 17
+Minusculas : 99
+Digitos    : 8
+Espacios   : 22

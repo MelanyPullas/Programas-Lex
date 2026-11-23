@@ -1,0 +1,30 @@
+IDENTIFICADOR : x
+SEPARADOR     : ,
+ENTERO        : 10
+SEPARADOR     : ,
+IDENTIFICADOR : _var2
+SEPARADOR     : ,
+ENTERO        : 2026
+IDENTIFICADOR : suma
+SEPARADOR     : ,
+IDENTIFICADOR : resta
+SEPARADOR     : ,
+ENTERO        : 100
+IDENTIFICADOR : hola
+Error: se esperaba ',' antes de 'mundo'
+IDENTIFICADOR : a
+SEPARADOR     : ,
+Error: coma inesperada (falta un elemento)
+IDENTIFICADOR : b
+IDENTIFICADOR : c
+SEPARADOR     : ,
+IDENTIFICADOR : d
+SEPARADOR     : ,
+Error: lista incompleta despues de ','
+Error: coma inesperada (falta un elemento)
+IDENTIFICADOR : inicio
+Error: token no valido '3.14'
+SEPARADOR     : ,
+Error: token no valido '12abc'
+SEPARADOR     : ,
+IDENTIFICADOR : valido

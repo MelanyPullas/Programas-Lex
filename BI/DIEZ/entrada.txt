@@ -1,0 +1,6 @@
+nombre@epn.edu.ec
+usuario.test_1@dominio.com
+correo_invalido@dominio
+@sinusuario.com
+otro@mal.c
+texto_cualquiera

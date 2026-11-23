@@ -1,0 +1,6 @@
+Token valido (EMAIL): nombre@epn.edu.ec
+Token valido (EMAIL): usuario.test_1@dominio.com
+Token no valido     : correo_invalido@dominio
+Token no valido     : @sinusuario.com
+Token no valido     : otro@mal.c
+Token no valido     : texto_cualquiera
