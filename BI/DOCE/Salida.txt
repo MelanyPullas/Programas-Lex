@@ -1,0 +1,14 @@
+0x1A3F = 6719
+0xFF = 255
+0x10 = 16
+0x123 = 291
+0xABC = 2748
+1 = No es un hexadecimal valido
+2 = No es un hexadecimal valido
+3 = No es un hexadecimal valido
+0 = No es un hexadecimal valido
+x = No es un hexadecimal valido
+G = No es un hexadecimal valido
+H = No es un hexadecimal valido
+I = No es un hexadecimal valido
+0x25 = 37
