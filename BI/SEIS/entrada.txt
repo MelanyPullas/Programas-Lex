@@ -1,0 +1,13 @@
+if
+else
+while
+int
+edad
+contador
+numero1
+123
+456
+int edad
+if contador
+while numero1
+abc123
