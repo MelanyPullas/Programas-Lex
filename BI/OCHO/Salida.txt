@@ -1,0 +1,7 @@
+hola mundo
+compiladores
+python es interesante
+abc123xyz
+quito, ecuador!
+hola-123_mundo
+universidad epn
